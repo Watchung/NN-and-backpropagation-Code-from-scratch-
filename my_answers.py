@@ -1,14 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jan 16 10:35:54 2022
-
-@author: Shafufu
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 14 15:49:43 2022
-
+Environment C:\Users\Shafufu\Desktop\Huacheng Doc\HL Python Learning\HLEnv\env1\Scripts\python.exe
 @author: Shafufu
 """
 
